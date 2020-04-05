@@ -1,0 +1,5 @@
+__pycache__
+generated_script_*.txt
+*.p
+*.pt
+.ipynb_checkpoints
